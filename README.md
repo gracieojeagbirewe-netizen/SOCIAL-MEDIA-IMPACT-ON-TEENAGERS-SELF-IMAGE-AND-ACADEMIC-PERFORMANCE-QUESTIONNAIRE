@@ -1,0 +1,2 @@
+# SOCIAL-MEDIA-IMPACT-ON-TEENAGERS-SELF-IMAGE-AND-ACADEMIC-PERFORMANCE-QUESTIONNAIRE
+Project Description: Social Media Impact on Teenagers’ Self-Image and Academic Performance  I conducted a research project using questionnaires to collect data on the impact of social media on teenagers’ self-image and academic performance. I used Microsoft Excel to organize, enter, and prepare the collected data for analysis. I then used SPSS.
